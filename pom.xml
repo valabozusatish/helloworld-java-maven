@@ -40,13 +40,13 @@
   
 <distributionManagement>
     <repository>
-        <id>sym</id>
-        <name>release softx</name>
+        <id>deployment</id>
+        <name>internal Release1</name>
         <url>http://13.127.168.202:8081/nexus/content/repositories/satish//</url>
     </repository>
     <snapshotRepository>
-        <id>sym</id>
-        <name>snapshot softx</name>
+        <id>deployment</id>
+        <name>internal Release</name>
         <url>http://13.127.168.202:8081/nexus/content/repositories/satish1//</url>
     </snapshotRepository>
 </distributionManagement>
