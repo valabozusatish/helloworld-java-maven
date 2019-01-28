@@ -42,12 +42,12 @@
     <repository>
         <id>sym</id>
         <name>release softx</name>
-        <url>http://52.66.212.86:8081/repository/rajesh/</url>
+        <url>http://13.127.168.202:8081/nexus/content/repositories/satish//</url>
     </repository>
     <snapshotRepository>
         <id>sym</id>
         <name>snapshot softx</name>
-        <url>http://52.66.212.86:8081/repository/rajesh/</url>
+        <url>http://13.127.168.202:8081/nexus/content/repositories/satish1//</url>
     </snapshotRepository>
 </distributionManagement>
 
