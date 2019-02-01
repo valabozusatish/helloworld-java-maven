@@ -42,12 +42,12 @@
     <repository>
         <id>deployment</id>
         <name>Internal Releases1</name>
-        <url>http://13.127.168.202:8081/nexus/content/repositories/satish/</url>
+        <url>http://13.232.134.226:8081/nexus/content/repositories/satish14/</url>
     </repository>
     <snapshotRepository>
         <id>deployment</id>
         <name>Internal Releases</name>
-        <url>http://13.127.168.202:8081/nexus/content/repositories/satish1/</url>
+        <url>http://13.232.134.226:8081/nexus/content/repositories/satish15/</url>
     </snapshotRepository>
 </distributionManagement>
 
