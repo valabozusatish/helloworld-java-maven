@@ -40,14 +40,14 @@
   
 <distributionManagement>
     <repository>
-        <id>deployment</id>
+        <id>satish</id>
         <name>Internal Releases1</name>
-        <url>http://13.232.134.226:8081/nexus/content/repositories/satish14/</url>
+        <url>http://192.168.12.152:8081/repository/mph/</url>
     </repository>
     <snapshotRepository>
-        <id>deployment</id>
+        <id>satish</id>
         <name>Internal Releases</name>
-        <url>http://13.232.134.226:8081/nexus/content/repositories/satish15/</url>
+        <url>http://192.168.12.152:8081/repository/mphsnapshot/</url>
     </snapshotRepository>
 </distributionManagement>
 
