@@ -40,14 +40,14 @@
   
 <distributionManagement>
     <repository>
-        <id>satish</id>
+        <id>satish14</id>
         <name>Internal Releases1</name>
-        <url>http://192.168.12.152:8081/repository/mph/</url>
+        <url>http://192.168.12.69:8081/repository/cicd/</url>
     </repository>
     <snapshotRepository>
-        <id>satish</id>
+        <id>satish14</id>
         <name>Internal Releases</name>
-        <url>http://192.168.12.152:8081/repository/mphsnapshot/</url>
+        <url>http://192.168.12.69:8081/repository/cicd_snapshot/</url>
     </snapshotRepository>
 </distributionManagement>
 
