@@ -40,14 +40,14 @@
   
 <distributionManagement>
     <repository>
-        <id>deployment</id>
-        <name>Internal Releases1</name>
-        <url>http://192.168.12.153:8081/nexus/content/repositories/java-maven/</url>
+        <id>javareleases</id>
+        <name>Javareleases</name>
+        <url>http://192.168.12.153:8081/nexus/content/repositories/javareleases/</url>
     </repository>
     <snapshotRepository>
-        <id>deployment</id>
-        <name>Internal Releases</name>
-        <url>http://192.168.12.153:8081/nexus/content/repositories/java-maven1/</url>
+        <id>javasnapshots</id>
+        <name>Javasnapshots</name>
+        <url>http://192.168.12.153:8081/nexus/content/repositories/javasnapshots/</url>
     </snapshotRepository>
 </distributionManagement>
 
